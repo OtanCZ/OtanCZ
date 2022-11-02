@@ -4,4 +4,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otancz&hide_border=true&locale=cs&theme=transparent&layout=compact&langs_count=6" alt="otancz" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=otancz&layout=compact&locale=cs&theme=transparent&hide_border=true" alt="otancz" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=otancz&locale=cs&theme=transparent&hide_border=true" alt="otancz" />
